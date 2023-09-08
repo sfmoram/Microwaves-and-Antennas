@@ -9,3 +9,6 @@ The aim of this course is to provide students with a comprehensive understanding
 
 ### Class 01:
 - **0.1-Programa:** Programa del Curso
+
+### First Exam
+* Solution [[PDF]](https://github.com/sfmoram/Microwaves-and-Antennas/blob/main/PrimerParcial/soluci%C3%B3n%20parcial%202023-2.pdf)
